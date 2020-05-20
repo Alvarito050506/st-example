@@ -90,7 +90,7 @@ Enjoy your static!
 Ok, fine, do this:
 
 ```
-npm install st -g
+npm i st -g
 ```
 
 Then cd into the folder you want to serve, and type:
